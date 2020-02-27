@@ -1,0 +1,11 @@
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\AverageUnitsShippedByEmployee\AverageUnitsShippedByEmployee\bin\Debug\AverageUnitsShippedByEmployee.exe.config
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\AverageUnitsShippedByEmployee\AverageUnitsShippedByEmployee\bin\Debug\AverageUnitsShippedByEmployee.exe
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\AverageUnitsShippedByEmployee\AverageUnitsShippedByEmployee\bin\Debug\AverageUnitsShippedByEmployee.pdb
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\AverageUnitsShippedByEmployee\AverageUnitsShippedByEmployee\bin\Debug\AverageUnitsShippedByEmployee.xml
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\AverageUnitsShippedByEmployee\AverageUnitsShippedByEmployee\obj\Debug\AverageUnitsShippedByEmployee.vbprojAssemblyReference.cache
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\AverageUnitsShippedByEmployee\AverageUnitsShippedByEmployee\obj\Debug\AverageUnitsShippedByEmployee.frmAverageUnitsShippedByEmployee.resources
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\AverageUnitsShippedByEmployee\AverageUnitsShippedByEmployee\obj\Debug\AverageUnitsShippedByEmployee.Resources.resources
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\AverageUnitsShippedByEmployee\AverageUnitsShippedByEmployee\obj\Debug\AverageUnitsShippedByEmployee.vbproj.GenerateResource.cache
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\AverageUnitsShippedByEmployee\AverageUnitsShippedByEmployee\obj\Debug\AverageUnitsShippedByEmployee.exe
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\AverageUnitsShippedByEmployee\AverageUnitsShippedByEmployee\obj\Debug\AverageUnitsShippedByEmployee.xml
+E:\COMPUTER PROGRAMMER DURHAM COLLEGE\Semester 2\NETD\AverageUnitsShippedByEmployee\AverageUnitsShippedByEmployee\obj\Debug\AverageUnitsShippedByEmployee.pdb
